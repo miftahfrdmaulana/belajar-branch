@@ -3,7 +3,9 @@
 **Foods**<br>
 * Donut
 * Fried Banana using cheese
-* Oreo
+* Oreo Original
+* Noodles
+* Chicken
 
 **Drinks**<br>
 * Water
