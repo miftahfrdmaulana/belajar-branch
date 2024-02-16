@@ -3,10 +3,10 @@
 **Foods**<br>
 * Donut
 * Fried Banana using cheese
-* Oreo Original
-* Noodles
-* Chicken
+* Oreo
+* Scramble Eggs
 
 **Drinks**<br>
 * Water
 * Vanilla Milkshake
+* Matcha 
