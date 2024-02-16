@@ -4,7 +4,9 @@
 * Donut
 * Fried Banana using cheese
 * Oreo
+* Scramble Eggs
 
 **Drinks**<br>
 * Water
 * Vanilla Milkshake
+* Matcha 
